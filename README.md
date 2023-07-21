@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, i'm David Ngo 👋
+linkedin.com/in/david-ngo-59367b263
 
-<!--
-**huidigestatus/huidigestatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing my Computer Science degree at Horizon College. I am a motivated and dedicated learner.
 
-Here are some ideas to get you started:
+I have a genuine passion for collaborating with others and offering assistance whenever possible!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Summary:
+
+    💻 Currently in my second year as a student at Bit-Academy
+    🌱 Enthusiastic about learning more about Computers
+    🌟 Proficient in various programming languages, including javascript, PHP, css and more
+    ✍️ Hobbies include playing games and coding
